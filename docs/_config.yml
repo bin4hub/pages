@@ -31,7 +31,7 @@ github_username:  jekyll
 repository: bin4hub/pages
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
